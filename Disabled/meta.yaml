@@ -1,0 +1,6 @@
+name: 'Disabled Fieldtype'
+version: '1.0'
+description: 'Show info without giving users an option to change it'
+developer: 'Wout Mager'
+developer_url: 'https://woutmager.nl'
+commercial: false
